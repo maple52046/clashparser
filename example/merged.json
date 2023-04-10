@@ -1,0 +1,169 @@
+{
+    "locals": [
+        {
+            "local_address": "127.0.0.1",
+            "local_port": 8000,
+            "local_udp_address": "127.0.0.1",
+            "local_udp_port": 8000,
+            "mode": "tcp_and_udp"
+        }
+    ],
+    "servers": [
+        {
+            "method": "aes-128-gcm",
+            "password": "61f99073-c8a8-4a43-840b-d5f891dee5b4",
+            "port": 12001,
+            "server": "speed11.dc-node1.com"
+        },
+        {
+            "method": "aes-128-gcm",
+            "password": "61f99073-c8a8-4a43-840b-d5f891dee5b4",
+            "port": 12002,
+            "server": "speed11.dc-node1.com"
+        },
+        {
+            "method": "aes-128-gcm",
+            "password": "61f99073-c8a8-4a43-840b-d5f891dee5b4",
+            "port": 12003,
+            "server": "speed11.dc-node1.com"
+        },
+        {
+            "method": "aes-128-gcm",
+            "password": "61f99073-c8a8-4a43-840b-d5f891dee5b4",
+            "port": 12004,
+            "server": "speed11.dc-node1.com"
+        },
+        {
+            "method": "aes-128-gcm",
+            "password": "61f99073-c8a8-4a43-840b-d5f891dee5b4",
+            "port": 12005,
+            "server": "speed11.dc-node1.com"
+        },
+        {
+            "method": "aes-128-gcm",
+            "password": "61f99073-c8a8-4a43-840b-d5f891dee5b4",
+            "port": 12011,
+            "server": "speed11.dc-node1.com"
+        },
+        {
+            "method": "aes-128-gcm",
+            "password": "61f99073-c8a8-4a43-840b-d5f891dee5b4",
+            "port": 12012,
+            "server": "speed11.dc-node1.com"
+        },
+        {
+            "method": "aes-128-gcm",
+            "password": "61f99073-c8a8-4a43-840b-d5f891dee5b4",
+            "port": 12013,
+            "server": "speed11.dc-node1.com"
+        },
+        {
+            "method": "aes-128-gcm",
+            "password": "61f99073-c8a8-4a43-840b-d5f891dee5b4",
+            "port": 12014,
+            "server": "speed11.dc-node1.com"
+        },
+        {
+            "method": "aes-128-gcm",
+            "password": "61f99073-c8a8-4a43-840b-d5f891dee5b4",
+            "port": 12015,
+            "server": "speed11.dc-node1.com"
+        },
+        {
+            "method": "aes-128-gcm",
+            "password": "61f99073-c8a8-4a43-840b-d5f891dee5b4",
+            "port": 12021,
+            "server": "speed11.dc-node1.com"
+        },
+        {
+            "method": "aes-128-gcm",
+            "password": "61f99073-c8a8-4a43-840b-d5f891dee5b4",
+            "port": 12022,
+            "server": "speed11.dc-node1.com"
+        },
+        {
+            "method": "aes-128-gcm",
+            "password": "61f99073-c8a8-4a43-840b-d5f891dee5b4",
+            "port": 12023,
+            "server": "speed11.dc-node1.com"
+        },
+        {
+            "method": "aes-128-gcm",
+            "password": "61f99073-c8a8-4a43-840b-d5f891dee5b4",
+            "port": 12024,
+            "server": "speed11.dc-node1.com"
+        },
+        {
+            "method": "aes-128-gcm",
+            "password": "61f99073-c8a8-4a43-840b-d5f891dee5b4",
+            "port": 12025,
+            "server": "speed11.dc-node1.com"
+        },
+        {
+            "method": "aes-128-gcm",
+            "password": "61f99073-c8a8-4a43-840b-d5f891dee5b4",
+            "port": 12031,
+            "server": "speed11.dc-node1.com"
+        },
+        {
+            "method": "aes-128-gcm",
+            "password": "61f99073-c8a8-4a43-840b-d5f891dee5b4",
+            "port": 12032,
+            "server": "speed11.dc-node1.com"
+        },
+        {
+            "method": "aes-128-gcm",
+            "password": "61f99073-c8a8-4a43-840b-d5f891dee5b4",
+            "port": 12033,
+            "server": "speed11.dc-node1.com"
+        },
+        {
+            "method": "aes-128-gcm",
+            "password": "61f99073-c8a8-4a43-840b-d5f891dee5b4",
+            "port": 12034,
+            "server": "speed11.dc-node1.com"
+        },
+        {
+            "method": "aes-128-gcm",
+            "password": "61f99073-c8a8-4a43-840b-d5f891dee5b4",
+            "port": 12035,
+            "server": "speed11.dc-node1.com"
+        },
+        {
+            "method": "aes-128-gcm",
+            "password": "61f99073-c8a8-4a43-840b-d5f891dee5b4",
+            "port": 12041,
+            "server": "speed11.dc-node1.com"
+        },
+        {
+            "method": "aes-128-gcm",
+            "password": "61f99073-c8a8-4a43-840b-d5f891dee5b4",
+            "port": 12042,
+            "server": "speed11.dc-node1.com"
+        },
+        {
+            "method": "aes-128-gcm",
+            "password": "61f99073-c8a8-4a43-840b-d5f891dee5b4",
+            "port": 12043,
+            "server": "speed11.dc-node1.com"
+        },
+        {
+            "method": "aes-128-gcm",
+            "password": "61f99073-c8a8-4a43-840b-d5f891dee5b4",
+            "port": 12044,
+            "server": "speed11.dc-node1.com"
+        },
+        {
+            "method": "aes-128-gcm",
+            "password": "61f99073-c8a8-4a43-840b-d5f891dee5b4",
+            "port": 12045,
+            "server": "speed11.dc-node1.com"
+        },
+        {
+            "method": "aes-128-gcm",
+            "password": "61f99073-c8a8-4a43-840b-d5f891dee5b4",
+            "port": 12051,
+            "server": "speed11.dc-node1.com"
+        }
+    ]
+}

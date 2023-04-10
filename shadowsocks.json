@@ -1,0 +1,11 @@
+{
+    "locals": [
+        {
+            "local_address": "127.0.0.1",
+            "local_port": 8000,
+            "local_udp_address": "127.0.0.1",
+            "local_udp_port": 8000,
+            "mode": "tcp_and_udp"
+        }
+    ]
+}
